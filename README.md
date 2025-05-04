@@ -79,10 +79,8 @@ In a world dominated by traditional banking apps, Ukhamba stands out by focusing
 ### **Installation**
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Ukhamba.git
-   cd Ukhamba
-   ```
+   
+ 
 
 2. Install the required dependencies:
    ```bash
